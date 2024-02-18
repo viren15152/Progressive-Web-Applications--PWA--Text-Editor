@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "auto/icon_512x512.18a791a98f6bb52cfae9aa047cc473eb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "auto/icon_384x384.5790ce73dc7c35ef5e7442c177ebb6ef.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "auto/icon_256x256.87efad94b1a77e3e1ac8b64f043ed7b4.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "auto/icon_192x192.ecdc38ed02623f350bf26135b993d079.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "auto/icon_128x128.d96d4243dea2fcb7d5589e6332c0d9bb.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "auto/icon_96x96.f8fd84422d3c3e7be6eb3949533d65f8.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "J.A.T.E",
+  "short_name": "J.A.T.E",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Just Another Text Editor",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
