@@ -7,7 +7,7 @@ module.exports = () => {
     mode: 'development',
     entry: {
       main: './src/js/index.js',
-      install: './src/js/install.js'
+      install: './src/js/install.js',
     },
     output: {
       filename: '[name].bundle.js',
@@ -30,7 +30,7 @@ module.exports = () => {
         theme_color: '#ffffff',
         icons: [
           {
-            src: path.resolve('src/assets/icons/icon_96x96.png'),
+            src: path.resolve('src/assets/01-manifest.png'),
             sizes: [96, 128, 192, 256, 384, 512],
             purpose: 'any maskable',
           },
