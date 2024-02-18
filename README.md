@@ -8,6 +8,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
+
 ## Description
 J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline and can be installed locally to your machine. This application features a number of data persistence techniques, insuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. This application is deployed to Render.
 ## Visuals
@@ -23,10 +24,11 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![Nodemon Badge](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge)
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
+
 ## Installation
 1. To use the application clone my repository
 2. Once you have downloaded it to your local device run the command npm install in your terminal on VS code and this will download the necessary packages.
-3. To start the app, use the command npm start.
+3. To start the app, use the command npm run start.
 ## Usage
 
 ## Contributing
