@@ -13,7 +13,7 @@
 J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline and can be installed locally to your machine. This application features a number of data persistence techniques, insuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. This application is deployed to Render.
 
 ## Visuals
-![Screenshot of text editor in my browser](<Screenshot 2024-02-18 at 14.59.53.png>)
+
 
 ## Technologies Used
 [![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer)
