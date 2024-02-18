@@ -30,7 +30,7 @@ module.exports = () => {
         theme_color: '#ffffff',
         icons: [
           {
-            src: path.resolve('src/assets/01-manifest.png'),
+            src: path.resolve('src/assets/icons/icon_96x96.png'),
             sizes: [96, 128, 192, 256, 384, 512],
             purpose: 'any maskable',
           },

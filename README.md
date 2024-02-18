@@ -31,7 +31,12 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 1. To use the application clone my repository
 2. Once you have downloaded it to your local device run the command npm install in your terminal on VS code and this will download the necessary packages.
 3. To start the app, use the command npm run start.
+
 ## Usage
+
+To use my application simply open the application via the deployed link. 
+Deployed link: 
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
