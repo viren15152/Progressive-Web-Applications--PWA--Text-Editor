@@ -1,5 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const WebpackPwaManifest = require('webpack-pwa-manifest');
+const { InjectManifest } = require('workbox-webpack-plugin');
 const path = require('path');
 
 module.exports = () => {
@@ -19,6 +20,11 @@ module.exports = () => {
         template: './src/index.html',
         filename: 'index.html',
         chunks: ['main'],
+      }),
+
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
       }),
 
       // Add WebpackPwaManifest to generate manifest file

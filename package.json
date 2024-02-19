@@ -5,9 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
-    "start": "",
+    "start": "npm run build && cd server && node server.js",
     "server": "",
-    "build": "",
+    "build": "cd client npm run build",
     "install": "",
     "client": ""
   },
@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "kill-port": "^2.0.1",
     "nodemon": "^2.0.4"
   }
 }
