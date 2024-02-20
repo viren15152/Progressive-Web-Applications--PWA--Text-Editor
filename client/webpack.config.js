@@ -17,11 +17,10 @@ module.exports = () => {
     plugins: [
       // Add HtmlWebpackPlugin to generate HTML file
       new HtmlWebpackPlugin({
-        template: './src/index.html',
-        filename: 'index.html',
-        chunks: ['main'],
+        template: './index.html',
+        title: 'J.A.T.E.',
       }),
-
+      
       new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'src-sw.js',
