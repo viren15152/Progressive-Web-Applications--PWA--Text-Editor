@@ -16,6 +16,9 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 
 ![Sreeenshot of Application](<Screenshot 2024-02-21 at 15.51.24.png>)
 ![alt text](<Screenshot 2024-02-21 at 16.09.58.png>)
+![Application working locally](<Screenshot 2024-02-21 at 16.49.01.png>)
+
+
 ## Technologies Used
 [![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
