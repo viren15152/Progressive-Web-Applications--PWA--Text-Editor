@@ -17,6 +17,7 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 ![Sreeenshot of Application](<Screenshot 2024-02-21 at 15.51.24.png>)
 ![alt text](<Screenshot 2024-02-21 at 16.09.58.png>)
 ![Application working locally](<Screenshot 2024-02-21 at 16.49.01.png>)
+![Logo of application installed on desktop](<Screenshot 2024-02-21 at 16.54.06.png>)
 
 
 ## Technologies Used
@@ -32,9 +33,10 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
 
 ## Installation
-1. To use the application clone my repository
+1. To use the application locally clone my repository
 2. Once you have downloaded it to your local device run the command npm install in your terminal on VS code and this will download the necessary packages.
-3. To start the app, use the command npm run start.
+3. cd to client 
+4. To start the app, use the command npm run start.
 
 ## Usage
 
