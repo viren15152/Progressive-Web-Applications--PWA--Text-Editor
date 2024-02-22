@@ -42,7 +42,8 @@ J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline
 ## Usage
 
 To use my application simply open the application via the deployed link. 
-Deployed link: 
+
+Deployed link: https://progressive-web-applications-pwa-text-w3iw.onrender.com
 
 
 ## Contributing
